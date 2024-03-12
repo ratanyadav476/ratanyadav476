@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari ratan Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-  <img width="400px" height="200px" style="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanyadav476&label=Profile%20views&color=0e75b6&style=flat" alt="ratanyadav476" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratanyadav476" alt="ratanyadav476" /></a> </p>
