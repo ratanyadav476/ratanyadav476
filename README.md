@@ -1,5 +1,5 @@
 
-<img width="100%" height="300px" scr=" https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
+<img width="100%" height="300px" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 <h1 align="center">Hi 👋, I'm Hari ratan Yadav</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
