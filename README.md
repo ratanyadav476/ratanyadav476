@@ -1,5 +1,5 @@
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="" width="100%" height="300px">
 
-<img width="100%" height="300px" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 <h1 align="center">Hi 👋, I'm Hari ratan Yadav</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
