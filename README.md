@@ -36,4 +36,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ratanyadav476?theme=dark&font=Abhaya%20Libre&ext=activity)
 
-![ratanyadav476's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratanyadav&custom_title=ratanyadav's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![ratanyadav476's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratanyadav476&custom_title=ratanyadav476's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
