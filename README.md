@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratanyadav476&show_icons=true&locale=en" alt="ratanyadav476" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratanyadav476&" alt="ratanyadav476" /></p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/ratanyadav476?theme=dark&font=Abhaya%20Libre&ext=activity)
