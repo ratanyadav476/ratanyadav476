@@ -1,6 +1,8 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="" width="100%" height="300px">
 
 <h1 align="center">Hi 👋, I'm Hari ratan Yadav</h1>
+<h3>MY projects</h3>
+<a href="https://ratanyadav476.github.io/spotify-clone/">Spotify-clone</a>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanyadav476&label=Profile%20views&color=0e75b6&style=flat" alt="ratanyadav476" /> </p>
