@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Hari ratan Yadav</h1>
 <h3>MY projects</h3>
 <a href="https://ratanyadav476.github.io/spotify-clone/">Spotify-clone</a>
+<hr>
 <a href="https://66e7c92e481c84c14ae63740--tangerine-fudge-a4ab8f.netlify.app/">website project </a>
+<hr>
 <a href="https://66db23aeaeaf64ad390bad80--magenta-medovik-485a1b.netlify.app/">website project 2 </a>
 
 <h3 align="center">A passionate frontend developer from India</h3>
