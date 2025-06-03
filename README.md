@@ -24,7 +24,8 @@ I'm a passionate Frontend Developer with expertise in building intuitive and use
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/ratanyadav476/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ratan-yadav-410888285/" height="30" width="40" /></a>
+      
+<a style="width: 50px; height: 30px; background-color: rgb(122, 117, 142);" href="https://www.linkedin.com/in/ratan-yadav-410888285/">LINKEDIN</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
