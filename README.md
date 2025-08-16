@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Hari ratan Yadav 😎</h1>
 
 ## 🎉 Greeting 🎉
-I'm a passionate Frontend Developer with expertise in building intuitive and user-friendly web applications. With solid experience in HTML, CSS, JavaScript, Tailwind CSS, and modern frameworks like React, I specialize in crafting responsive, visually appealing interfaces that enhance user experiences.
-
+I’m a **Frontend Developer** passionate about building responsive and user-friendly web applications.  
+With solid experience in **HTML, CSS, JavaScript, Tailwind CSS, and React**, I love crafting modern,  
+intuitive, and visually appealing interfaces.  
+🌱 Currently aspiring to become a **Full Stack Developer** by learning the **MERN Stack (MongoDB, Express, React, Node.js)**.  
 <hr/>
 
 
