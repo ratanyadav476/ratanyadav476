@@ -68,7 +68,7 @@ intuitive, and visually appealing interfaces.
     <img src="https://img.shields.io/github/followers/ratanyadav476?label=Followers&style=social" style="zoom: 1.5;">
 </a>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+a+Lifelong+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+LinkedIn!;I'm+a+Lifelong+Learner;+Increase+My+Stars";>
 </h3>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
