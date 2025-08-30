@@ -46,7 +46,7 @@
 ✨ Features:
 - Eye-catching UI
 - Responsive layout
-- Built with **React + Tailwind**  
+- Built with **Html + css +Three.js**  
 
 ---
 
